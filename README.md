@@ -1,5 +1,7 @@
 # Olá 👋 I'm [João Henrique](https://github.com/jhnhenrique/)
 
+# 📚 Biografia:
+
 Meu nome é João Henrique 🕴
 
 Moro em Assis, São Paulo | Brazil
@@ -7,6 +9,9 @@ Moro em Assis, São Paulo | Brazil
 Atualmente estou estudando HTML5 & JavaScript;
 
 Tenho conhecimento no BÁSICO de Python.
+
+## 🎵 Escutando:
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/JoaoWasHere)
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
