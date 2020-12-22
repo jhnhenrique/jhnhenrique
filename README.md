@@ -42,6 +42,9 @@ Aqui estão as linguagens que estou aprendendo atualmente:
 ## ⭐ Status:
 <img src="https://github-readme-stats.vercel.app/api?username=jhnhenrique&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+## 🎈 Linguagens Utilizadas:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhnhenrique&layout=compact">
+
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
 "Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênios não reconhecidos é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas."
