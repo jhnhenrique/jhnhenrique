@@ -7,7 +7,7 @@
 </p>
 
 
-# 📚 Biografia:
+## 📚 Biografia:
 
 Meu nome é João Henrique 🕴
 
