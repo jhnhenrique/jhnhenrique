@@ -28,7 +28,7 @@ Tenho conhecimento no BÁSICO de Python.
 
 ## 🔧 Linguagens:
 
-Aqui estão as linguagens que estou aprendendo:
+Aqui estão as linguagens que estou aprendendo atualmente:
 
 
  [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript)
