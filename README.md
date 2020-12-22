@@ -18,4 +18,4 @@ Me siga nas redes sociais 👇🏼
 
 "Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênios não reconhecidos é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas."
 
-<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/769015308484345866/769018614887874571/tumblr_inline_mzoplwihhc1qgcvsy540.gif" />
+<p align="center"><img src="https://data.whicdn.com/images/332959603/original.jpg" alt="Banner Profile"/></p>
