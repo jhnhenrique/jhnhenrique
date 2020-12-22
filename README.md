@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá 👋 I'm [João Henrique](https://github.com/jhnhenrique/)
 
 Meu nome é João Henrique 🕴
 
@@ -17,3 +17,5 @@ Me siga nas redes sociais 👇🏼
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
 "Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênios não reconhecidos é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas."
+
+<img align="left" alt="GIF" src="https://media.discordapp.net/attachments/787099997942448150/787324686509146112/cyber321.gif" />
