@@ -11,7 +11,7 @@ Atualmente estou estudando HTML5 & JavaScript;
 Tenho conhecimento no BÁSICO de Python.
 
 ## 🎵 Escutando:
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/korn)
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/x9ti5be2z5apnf43emvigcr17)
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
