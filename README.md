@@ -1,8 +1,10 @@
 # Olá 👋 I'm [João Henrique](https://github.com/jhnhenrique/)
 <h3 align="center">Fale comigo por aqui:</h3>
 <p align="center">
-<a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-<a href="https://twitter.com/jhnhenrique" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
+<a href="https://discord.gg/UV6BmTXQ">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="João Henrique | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 <a href="https://twitch.tv/joaowashere" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
