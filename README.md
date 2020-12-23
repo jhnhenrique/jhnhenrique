@@ -11,11 +11,13 @@
 
 Meu nome é João Henrique 
 
-Moro em Assis, São Paulo | Brazil 
+Moro em Assis, São Paulo | Brazil
 
 Gosto de ouvir músicas nas horas livres (de preferência Nu Metal & Rock) 
 
-Bi-Sexual; 
+Bi-Sexual;
+
+Música Favorita Atualmente: Slipknot: AOV
 
 Atualmente estou estudando HTML5 & JavaScript;
 
