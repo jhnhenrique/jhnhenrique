@@ -24,6 +24,7 @@ Atualmente estou estudando HTML5 & JavaScript;
 Tenho conhecimento no BÁSICO de Python.
 
 [![](https://gitwar.herokuapp.com/badge?username=jhnhenrique&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
 <img src="https://komarev.com/ghpvc/?username=jhnhenrique" alt="maykbrito" /> </p>
 
 ## 🎵 Escutando:
