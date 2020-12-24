@@ -23,6 +23,8 @@ Atualmente estou estudando HTML5 & JavaScript;
 
 Tenho conhecimento no BÁSICO de Python.
 
+https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar.herokuapp.com%2Fapi%2Fjhnhenrique
+
 ## 🎵 Escutando:
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/x9ti5be2z5apnf43emvigcr17)
 
