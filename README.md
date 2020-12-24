@@ -23,8 +23,8 @@ Atualmente estou estudando HTML5 & JavaScript;
 
 Tenho conhecimento no BÁSICO de Python.
 
-<p align="center">[![](https://gitwar.herokuapp.com/badge?username=jhnhenrique&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jhnhenrique" alt="maykbrito" /> </p>
+[![](https://gitwar.herokuapp.com/badge?username=jhnhenrique&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+<img src="https://komarev.com/ghpvc/?username=jhnhenrique" alt="maykbrito" /> </p>
 
 ## 🎵 Escutando:
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/x9ti5be2z5apnf43emvigcr17)
