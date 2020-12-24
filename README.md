@@ -55,4 +55,4 @@ Aqui estão as linguagens que estou aprendendo atualmente:
 
 "Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênios não reconhecidos é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas."
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/790274120499331084/790962741174730773/GettyImages-963869230-1280x427.jpg" alt="Banner Profile"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/790274120499331084/791775068799500298/JHN_HENRIQUE_1.png" alt="Banner Profile"/></p>
