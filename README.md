@@ -30,7 +30,7 @@ Tenho conhecimento no BÁSICO de Python.
 ## 🎵 Escutando:
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/x9ti5be2z5apnf43emvigcr17)
 
-## Me siga nas redes sociais:
+## 📷 Me siga nas redes sociais:
 
 * [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCeJ16J9wAHcJsbo1dPA4pow?view_as=subscriber)](https://www.youtube.com/channel/UCeJ16J9wAHcJsbo1dPA4pow?view_as=subscriber)
 * [![Twitter Badge](https://img.shields.io/badge/-Twitter_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/JoaoWasHere_)](https://twitter.com/jhn_henrique)
