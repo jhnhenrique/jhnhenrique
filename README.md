@@ -49,7 +49,7 @@ Aqui estão as linguagens que estou aprendendo atualmente:
 <img src="https://github-readme-stats.vercel.app/api?username=jhnhenrique&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
 
 ## 🎈 Linguagens Utilizadas:
-<img src="a">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jhnhenrique&layout=compact">
 
 ## 🌟 Banner:
 
