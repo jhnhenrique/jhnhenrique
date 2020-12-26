@@ -15,7 +15,7 @@ Moro em Assis, São Paulo | Brazil
 
 Gosto de ouvir músicas nas horas livres (de preferência Nu Metal & Rock) 
 
-homossexual;
+Homossexual;
 
 Música Favorita Atualmente: Slipknot: AOV;
 
