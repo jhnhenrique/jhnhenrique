@@ -17,6 +17,8 @@ Gosto de ouvir músicas nas horas livres (de preferência Nu Metal & Rock)
 
 Homossexual;
 
+Melhores amigos: @Erick & @Huzz;
+
 Música Favorita Atualmente: Slipknot: AOV;
 
 Atualmente estou estudando HTML5 & JavaScript;
