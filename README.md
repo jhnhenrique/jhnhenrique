@@ -29,7 +29,7 @@ Tenho conhecimento no BÁSICO de Python.
 
 <img src="https://komarev.com/ghpvc/?username=jhnhenrique" alt="maykbrito" /> </p>
 
-## 🎵 Escutando:
+## 🎶 Escutando:
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/x9ti5be2z5apnf43emvigcr17)
 
 ## 📷 Me siga nas redes sociais:
