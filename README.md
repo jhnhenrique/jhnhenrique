@@ -38,7 +38,7 @@ Tenho conhecimento no BÁSICO de Python.
 * [![Twitter Badge](https://img.shields.io/badge/-Twitter_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/JoaoWasHere_)](https://twitter.com/jhn_henrique)
 * [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaowasherekkk/)](https://www.instagram.com/joaowasherekkk/)
 
-## 🔧 Linguagens:
+## 🎓 Linguagens:
 
 Aqui estão as linguagens que estou aprendendo atualmente:
 
@@ -46,6 +46,11 @@ Aqui estão as linguagens que estou aprendendo atualmente:
  [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript)
  [![forthebadge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
  [![forthebadge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5)
+
+## 🔧 Ferramentas:
+
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt ="Visual Studio" height="30" />
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt ="Google Chrome" height="30">
 
 ## ⭐ Status:
 <img src="https://github-readme-stats.vercel.app/api?username=jhnhenrique&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
