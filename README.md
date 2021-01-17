@@ -15,8 +15,6 @@ Moro em Assis, São Paulo | Brazil;
 
 Gosto de ouvir músicas nas horas livres (de preferência Nu Metal & Rock);
 
-Melhores amigos: @Huzz, @Konrad, @Hmz, @Tadashi & @Erick;
-
 Música favorita atualmente: Slipknot: AOV;
 
 Atualmente estou estudando HTML5 & JavaScript;
