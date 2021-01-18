@@ -9,7 +9,7 @@
 
 ## 📚 Biografia:
 
-Meu nome é João Henrique;
+Meu nome é João Henrique
 
 Moro em Assis, São Paulo | Brazil;
 
