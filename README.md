@@ -9,16 +9,11 @@
 
 ## 📚 Biografia:
 
-Meu nome é João Henrique
-
+Meu nome é João Henrique;
 Moro em Assis, São Paulo | Brazil;
-
 Gosto de ouvir músicas nas horas livres (de preferência Nu Metal & Rock);
-
 Música favorita atualmente: Slipknot: AOV;
-
 Atualmente estou estudando HTML5 & JavaScript;
-
 Tenho conhecimento no BÁSICO de Python.
 
 [![](https://gitwar.herokuapp.com/badge?username=jhnhenrique&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
