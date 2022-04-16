@@ -11,9 +11,9 @@
 
 * Meu nome é João Henrique;
 * Moro em Assis, São Paulo | Brazil;
-* Gosto de ouvir músicas nas horas livres (de preferência Nu Metal & Rock);
-* Música favorita atualmente: Slipknot: AOV;
-* Atualmente estou estudando HTML5 & JavaScript;
+* Gosto de ouvir músicas nas horas livres;
+* Música favorita atualmente: Linkin Park - Points of Authority;
+* Atualmente estou estudando C# e JavaScript;
 * Tenho conhecimento no BÁSICO de Python.
 
 <img src="https://komarev.com/ghpvc/?username=jhnhenrique" alt="maykbrito" /> </p>
